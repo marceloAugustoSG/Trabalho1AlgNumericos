@@ -5,15 +5,15 @@ Marcelo Augusto Soares Gomes - 2016204216
 
 ## Observaçoes a cerca do trabalho:
 
-coneguimos implentar os seguintes metodos:
+conseguimos implentar os seguintes metodos:
 [x]Gauss
 [x]Fatoração LU
 [x] Jacobi
 [X]Gauss-Seidel
 
-não conseguimos capturar o tempo de execução das funções que realizam os cálculos dos métodos, o tempo aparece quando ele quer, ou é muito rapido e ele não pega o tempo.
+não conseguimos capturar o tempo de execução das funções que realizam os cálculos dos métodos, o tempo aparece quando ele quer, ou é muito rapido e ele não pega o tempo. (NO WINDOWS).No Linux ta rodando de boa.
 
-não conseguimos implementar a vantagem do fatoração LU, mas todos os métodos estão funcionando normalmente 
+não conseguimos implementar a vantagem do fatoração LU, mas todos os métodos estão funcionando normalmente.
 
 
 ## Para rodar o programa:
